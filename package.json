@@ -4,5 +4,8 @@
   "main": "app.ts",
   "dependencies": {
     "ws": "^5.2.2"
+  },
+  "devDependencies": {
+    "@types/ws": "^5.1.2"
   }
 }
