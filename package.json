@@ -1,0 +1,8 @@
+{
+  "name": "websockets_tests",
+  "version": "1.0.0",
+  "main": "app.ts",
+  "dependencies": {
+    "ws": "^5.2.2"
+  }
+}
